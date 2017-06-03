@@ -1,4 +1,4 @@
-package rexxie.controllers;
+package rexxie.web.controllers;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

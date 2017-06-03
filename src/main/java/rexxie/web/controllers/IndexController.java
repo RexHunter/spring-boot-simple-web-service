@@ -1,4 +1,4 @@
-package rexxie.controllers;
+package rexxie.web.controllers;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
